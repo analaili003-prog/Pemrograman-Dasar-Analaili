@@ -1,0 +1,25 @@
+# Pemrograman-Dasar-Analaili
+Pemrograman 
+angka1 =  50
+angka2 = 30
+angka3 = 20
+hasil_penjumblahan = (angka1 + angka2 + angka3)
+print (f"hasil penjumblahan dari oprasi {angka1} + {angka2} + {angka3} = adalah: {hasil_penjumblahan}")
+
+angka1 = 50
+angka2 = 25
+angka3 = 15
+hasil_pengurangan = (angka1 - angka2 - angka3)
+print (f"hasil_pengurangan dari oprasi {angka1} - {angka2} - {angka3} = adalah: {hasil_pengurangan}")
+
+angka1 = 25
+angka2 = 10
+angka3 = 5
+hasil_perkalian = (angka1 * angka2 * angka3)
+print (f"hasil_perkalian dari oprasi {angka1} * {angka2} * {angka3} = adalah: {hasil_perkalian}")
+
+angka1 = 35
+angka2 = 40
+angka3 = 20
+hasil_pembagaian = (angka1 / angka2 / angka3)
+print (f"hasil_pembagian dari oprasi {angka1} / {angka2} / {angka3} = adalah: {hasil_pembagaian}")
